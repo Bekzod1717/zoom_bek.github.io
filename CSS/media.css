@@ -1,0 +1,694 @@
+@media (max-width: 1140px) {
+    /* .container {
+            max-width: 992px;
+            margin: auto;
+        } */
+
+    body {
+        height: 9358px;
+    }
+
+
+    nav {
+        max-width: 992px;
+        margin: auto;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    /* .second_block {
+        margin-top: 10px;
+    } */
+
+    h3 {
+        font-size: 26px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    header {
+        height: 700px;
+        background: url('../img/bg.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .header-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* text-align: center; */
+        justify-content: flex-start;
+        font-family: 'Montserrat Regular';
+        color: #ffffff;
+        padding: 200px 0;
+        font-size: 25px;
+
+    }
+
+    .description .container {
+        margin-top: 100px;
+    }
+
+    .info_phone .container {
+        padding: 70px 0;
+    }
+
+    .desc {
+        margin-bottom: 13px;
+        margin-top: 0px;
+        margin-left: 20px;
+    }
+
+    .desc_2 {
+        margin-bottom: 20px;
+    }
+
+    .our_pricing img {
+        width: 1000px;
+    }
+
+
+
+    .nav_sect a img {
+        width: 100px;
+        height: 40px;
+    }
+
+
+
+    .registration_input textarea {
+        margin: 30px;
+        color: #ffffff;
+
+    }
+
+    .registration_input button {
+        margin: 18px;
+    }
+
+    
+
+    .dowland_icon a img {
+        width: 160px;
+        height: 60px;
+    }
+
+    .block_2 {
+        margin-bottom: 55px;
+    }
+
+    
+
+}
+
+/* ============================================================== */
+
+@media (max-width:992px) {
+
+    body {
+        height: 9200px;
+    }
+
+    nav {
+        max-width: 768px;
+    }
+
+    .limiter_block div a {
+        font-size: 15px;
+    }
+
+    .block>a {
+        width: 180px;
+        margin-left: 80px;
+        height: 70px;
+    }
+
+    .second_block {
+        margin-top: 220px;
+    }
+
+    .text_1 p {
+        text-align: center;
+    }
+
+    .text_1 h4 {
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    header {
+        height: 700px;
+        background: url('../img/bg.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .header-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* text-align: center; */
+        justify-content: flex-start;
+        font-family: 'Montserrat Regular';
+        color: #ffffff;
+        padding: 200px 0;
+        font-size: 25px;
+
+    }
+
+
+    .first_block {
+        margin-top: 190px;
+    }
+
+
+    .info_phone {
+        margin: -150px 0;
+    }
+
+
+    .center_apple {
+        width: 310px;
+        height: 510px;
+        margin-bottom: -150px;
+    }
+
+    .bg_phone_ferst {
+        width: 400px;
+        height: 560px;
+        margin-top: 60px;
+    }
+
+    .desc_item {
+        align-items: self-start;
+        margin-bottom: 0px;
+    }
+
+    .desc p {
+        margin-bottom: 40px;
+    }
+
+    .desc {
+        margin-top: 0px;
+    }
+
+    .desc_2 {
+        margin-bottom: 20px;
+    }
+
+
+    .block_1 {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+
+    .block_2 {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .our_pricing img {
+        width: 900px;
+    }
+
+    .nav_sect a img {
+        width: 100px;
+        height: 40px;
+    }
+
+     .descriptions_2 .container {
+         height: 550px;
+     }
+
+     .desc_king {
+         margin: 45px;
+         margin-bottom: 100px;
+     }
+
+     .phone_3 {
+         width: 360px;
+         height: 560px;
+     }
+
+    .nav_sect {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .nav_sect>a {
+        margin: 10px;
+    }
+
+
+
+    .registration_input textarea {
+        margin: 20px;
+
+    }
+}
+
+
+
+
+/* ============================================================== */
+
+@media (max-width:768px) {
+     
+  .element.style {
+      width: 508px;
+  } 
+
+    .second_block {
+        height: 400px;
+    }
+
+    nav {
+        max-width: 768px;
+    }
+
+    .limiter_block div a {
+        font-size: 10px;
+    }
+
+    .block>a {
+        width: 100px;
+        margin: 35px 90px;
+        height: 60px;
+    }
+
+    .second_block {
+        flex-direction: row;
+        margin: 90px 0;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+   .bg_768 {
+       height: 600px;
+   }
+
+    .info_phone .container{
+        display: flex;
+        flex-direction: column;
+        height: 1100px;
+        padding: 250px 0;
+        height: 1324px;
+        margin-bottom: -100px;
+        margin-top: 50px;
+    }
+
+    .first_block {
+        display: flex;
+        flex-direction: row;
+        height: 250px;
+    }
+
+    .bg_vidio  {
+        height: 300px;
+    }
+
+
+    .description .container {
+        flex-direction: column;
+    }
+
+
+
+    .block_1 {
+        display: flex;
+        text-align: right;
+        margin-bottom: 80px;
+    }
+
+    .text_1 {
+        text-align: center;
+    }
+
+    .block_1 {
+        flex-direction: column-reverse;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .block_2 {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .text_2 {
+        text-align: center;
+    }
+
+    .bg_web_vidio {
+        height: 400px;
+    }
+
+    video {
+        height: 300px;
+        width: 500px;
+    }
+
+    .descriptions_2 .container {
+        display: none;
+      }
+
+      .container_2 {
+          display: block;
+      }
+
+    .bg_phone_ferst {
+        margin-left: 170px;
+        width: 360px;
+        height: 500px;
+    }
+
+    .description .container {
+        flex-direction: column-reverse;
+        height: 1000px;
+    }
+
+    .desc h3 {
+        text-align: center;
+    }
+
+    .desc p {
+        text-align: center;
+    }
+
+
+
+
+    .desc {
+        margin-bottom: 13px;
+        margin-top: 50px;
+    }
+
+    .desc_2 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .phone_3 {
+        width: 310px;
+        height: 500px;
+    }
+
+    
+    /* .desc_2 p {
+        font-size: 10px;
+    } */
+
+    .second {
+        margin-top: 50px;
+    }
+
+    .our_pricing img {
+        width: 700px;
+    }
+
+    .second_slider {
+        height: 380px;
+    }
+    .nav_sect a img {
+        width: 100px;
+        height: 40px;
+    }
+
+    .first_slider .container {
+        margin-top: 20px;
+    }
+
+    .first_slider {
+        height: 620px;
+    }
+
+    .nav_sect>a {
+        margin: 1px;
+    }
+
+    .Subscribe {
+        height: 300px;
+    }
+
+    body {
+        height: 8900px;
+    }
+
+    .registration_input textarea {
+        padding: 0;
+        margin: 30px;
+
+    }
+}
+
+/* ============================================================== */
+
+@media (max-width:480px) {
+
+    .mobile-nav--active {
+        height: 476px;
+    }
+
+    header {
+        height: 476px;
+    }
+
+    body {
+        height: 6700px;
+    }
+    
+    h2 {
+        margin-top: -69px;
+        font-size: 19px;
+    }
+
+    .block > a {
+        width: 50px;
+        margin: 30px 60px;
+        height: 40px;
+    }
+
+    .bg_768 {
+        height: 500px;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+
+    p{
+        font-size: 12px;
+    }
+
+    h3 {
+        font-size: 19px;
+    }
+
+    .icon_vidio h3 {
+        font-size: 19px;
+    }
+
+    .center_apple {
+        width: 250px;
+        height: 400px;
+        margin-bottom: -200px;
+    }
+
+    .info_phone {
+        height: 1150px;
+    }
+
+    .icon2 img {
+        width: 25px;
+        height: 25px;
+        padding: 3px;
+    }
+
+    .icon1 img {
+        width: 25px;
+        height: 25px;
+        padding: 3px;
+    }
+
+    .icon_vidio img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .bg_phone_ferst {
+         width: 280px;
+        height: 400px;
+        margin-top: 20px;
+    }
+
+    .description .container {
+
+        flex-direction: column-reverse;
+        height: 820px;
+    
+    }
+   
+    .first_block {
+        height: 230px;
+        margin-top: 100px;
+    }
+
+    .bg_vidio {
+        height: 200px;
+    }
+
+    .desc_text {
+        text-align: center;
+    }
+
+    .desc_item img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .bg_web_vidio {
+        height: 300px;
+    }
+
+    video {
+        height: 220px;
+        width: 390px;
+    }
+
+    .desc > h3 {
+        margin-bottom: 20px;
+    }
+
+    .desc_2 h3 {
+        margin-bottom: 20px;
+        text-align: center;
+        margin: 20px;
+    }
+
+    .desc_2 p {
+        text-align: left;
+    }
+
+    .phone_3 {
+        width: 270px;
+        height: 410px;
+    }
+
+    .desc_king_2 {
+        margin: 0;
+    }
+
+    .slider_1 p {
+        font-size: 11px;    
+    }
+
+   
+    .our_pricing img {
+        width: 414px;
+        margin-top: -19px;
+    }
+
+    .our_pricing {
+        height: 165px;
+    }
+ 
+    
+    .first_slider {
+        height: 450px;
+    }
+
+    .second_slider {
+        height: 228px;
+    }
+    .nav_sect a img {
+        width: 69px;
+        height: 19px;
+    }
+
+    .bg_h4 {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        text-align: center;
+        height: 70px;
+    }
+
+    .dowland_text > p {
+        font-size: 12px;
+    }
+ 
+    .dowland_icon a img {
+        width: 112px;
+        height: 45px;
+    }
+
+    .dowland {
+        height: 100px;
+    }
+
+    .dowland_text {
+        margin-top: -100px;
+    }
+
+    .pricing {
+        margin-top: -100px;
+    }
+
+    .info_phone {
+        margin-top: -200px;
+    }
+
+    .registration_input textarea {
+        margin: 5px;
+    }
+
+    .registration_input input {
+        width: -1px;
+    }
+
+    .rigistration {
+        height: 884px;
+    }
+
+    .nav_footer img {
+           width: 25px;
+           height: 25px;
+    }
+
+    input {
+        border-radius: 0;
+    }
+
+    .Subscribe_input button {
+        border-radius: 0;
+    }
+}
